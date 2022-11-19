@@ -19,4 +19,4 @@
 ![Twitter](https://img.shields.io/badge/-Twitter-690566?style=for-the-badge&logo=Twitter&logoColor=ffffff)
 ![Facebook](https://img.shields.io/badge/-Facebook-690566?style=for-the-badge&logo=Facebook&logoColor=ffffff)
 ![Youtube](https://img.shields.io/badge/-Youtube-690566?style=for-the-badge&logo=Youtube&logoColor=ffffff)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-690566?style=for-the-badge&logo=StackOverflow&logoColor=ffffff)
+![LinkeDin](https://img.shields.io/badge/-LinkeDin-690566?style=for-the-badge&logo=LinkeDin&logoColor=ffffff)
