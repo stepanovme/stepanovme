@@ -12,6 +12,11 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-690566?style=for-the-badge&logo=Wordpress&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-690566?style=for-the-badge&logo=PHP&logoColor=ffffff)
 
-
-
-Follow Me
+## Follow Me
+![Telegram](https://img.shields.io/badge/-Telegram-690566?style=for-the-badge&logo=Telegram&logoColor=fffff)
+![vk](https://img.shields.io/badge/-vkontakte-690566?style=for-the-badge&logo=vk&logoColor=ffffff)
+![Instagram](https://img.shields.io/badge/-Instagram-690566?style=for-the-badge&logo=Instagram&logoColor=ffffff)
+![Twitter](https://img.shields.io/badge/-Twitter-690566?style=for-the-badge&logo=Twitter&logoColor=ffffff)
+![Facebook](https://img.shields.io/badge/-Facebook-690566?style=for-the-badge&logo=Facebook&logoColor=ffffff)
+![Youtube](https://img.shields.io/badge/-Youtube-690566?style=for-the-badge&logo=Youtube&logoColor=ffffff)
+![StackOverflow](https://img.shields.io/badge/-StackOverflow-690566?style=for-the-badge&logo=StackOverflow&logoColor=ffffff)
