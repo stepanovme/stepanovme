@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/stepanovme/stepanovme/blob/main/assets/header.gif)]
 
 About me
 
