@@ -22,4 +22,4 @@
 [![LinkeDin](https://img.shields.io/badge/-LinkeDin-690566?style=for-the-badge&logo=LinkeDin&logoColor=ffffff)]()
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stepanovme&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
