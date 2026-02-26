@@ -20,3 +20,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-690566?style=for-the-badge&logo=Facebook&logoColor=ffffff)]()
 [![Youtube](https://img.shields.io/badge/-Youtube-690566?style=for-the-badge&logo=Youtube&logoColor=ffffff)]()
 [![LinkeDin](https://img.shields.io/badge/-LinkeDin-690566?style=for-the-badge&logo=LinkeDin&logoColor=ffffff)]()
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
